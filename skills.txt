@@ -1,0 +1,9 @@
+Skills
+0. Git
+1. Postman
+2. Jmeter
+3. Check lists
+4. Bag reports
+5. SQL
+6. Charles
+7. Mobile testing
